@@ -40,3 +40,7 @@
 | /proving-claim-value | https://www.insideraccidentlawyers.com/proving-claim-value | TBD | Informational Article | New | Evidence and damages proof |
 | /demand-letter-negotiation | https://www.insideraccidentlawyers.com/demand-letter-negotiation | TBD | Informational Article | New | Demand letters and negotiation |
 | /lowball-offer-response | https://www.insideraccidentlawyers.com/lowball-offer-response | TBD | Informational Article | New | Responding to low offers |
+| /lit-referral-core | https://www.insideraccidentlawyers.com/lit-referral-core | TBD | Informational Article | New | Attorney referral overview |
+| /lit-referral-process | https://www.insideraccidentlawyers.com/lit-referral-process | TBD | Informational Article | New | Referral workflow |
+| /lit-referral-criteria | https://www.insideraccidentlawyers.com/lit-referral-criteria | TBD | Informational Article | New | Case selection criteria |
+| /lit-referral-economics | https://www.insideraccidentlawyers.com/lit-referral-economics | TBD | Informational Article | New | Referral economics |
