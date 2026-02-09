@@ -150,6 +150,46 @@
     "mainEntity":  [
                        {
                            "acceptedAnswer":  {
+                                                  "text":  "Coverage limits and liability evidence are evaluated early.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "What does an adjuster look at first?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Yes. Gaps reduce credibility and valuation.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Do treatment gaps hurt my claim?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Consistent records, symptom logs, and medical notes help.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "How do I prove pain and suffering?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Many cases settle, but trial readiness protects value.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Will my case go to court?",
+                           "@type":  "Question"
+                       }
+                   ],
+    "@type":  "FAQPage"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context":  "https://schema.org",
+    "mainEntity":  [
+                       {
+                           "acceptedAnswer":  {
                                                   "text":  "You may still recover under comparative fault depending on the facts.",
                                                   "@type":  "Answer"
                                               },
@@ -342,6 +382,46 @@
     "mainEntity":  [
                        {
                            "acceptedAnswer":  {
+                                                  "text":  "After medical treatment stabilizes and damages are documented.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "When should a demand letter be sent?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Yes. A clear demand anchors negotiations.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Should I demand a specific dollar amount?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "We counter with evidence and trial readiness.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "What if the adjuster responds with a low offer?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Yes, but readiness to file improves leverage.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Can negotiation happen without filing a lawsuit?",
+                           "@type":  "Question"
+                       }
+                   ],
+    "@type":  "FAQPage"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context":  "https://schema.org",
+    "mainEntity":  [
+                       {
+                           "acceptedAnswer":  {
                                                   "text":  "The right answer depends on the facts of your case, and we can review it in a free consultation.",
                                                   "@type":  "Answer"
                                               },
@@ -378,6 +458,86 @@
                                                   "@type":  "Answer"
                                               },
                            "name":  "Will my case go to court?",
+                           "@type":  "Question"
+                       }
+                   ],
+    "@type":  "FAQPage"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context":  "https://schema.org",
+    "mainEntity":  [
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Delays reduce payouts and increase leverage; trial-ready documentation helps counter this.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Why do insurance companies delay claims?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Initial offers are often low; a full review of liability and damages is needed.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Should I accept the first settlement offer?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Objective proof of liability, consistent treatment, and documented damages.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "What evidence matters most to adjusters?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Yes. Insurers typically respond more seriously once counsel is involved.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Will hiring a lawyer change how insurers respond?",
+                           "@type":  "Question"
+                       }
+                   ],
+    "@type":  "FAQPage"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context":  "https://schema.org",
+    "mainEntity":  [
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Often no. It is typically a starting point for negotiation.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Is the first offer usually fair?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "It is safer to let counsel handle communications.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Should I respond directly to the adjuster?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "It depends on liability strength and insurer behavior.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "How long should I negotiate before filing suit?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "It often increases leverage when liability is strong.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Will a lawsuit increase my settlement?",
                            "@type":  "Question"
                        }
                    ],
@@ -1482,6 +1642,46 @@
                                                   "@type":  "Answer"
                                               },
                            "name":  "Will my case go to court?",
+                           "@type":  "Question"
+                       }
+                   ],
+    "@type":  "FAQPage"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context":  "https://schema.org",
+    "mainEntity":  [
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Liability proof, consistent medical treatment, and damages documentation.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "What evidence matters most?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "Yes. Visual evidence supports causation and severity.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "Do photos and videos help?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "You can still recover if the accident worsened it; documentation is key.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "What if I had a preexisting condition?",
+                           "@type":  "Question"
+                       },
+                       {
+                           "acceptedAnswer":  {
+                                                  "text":  "It depends on treatment length and evidence collection.",
+                                                  "@type":  "Answer"
+                                              },
+                           "name":  "How long does it take to build a strong case?",
                            "@type":  "Question"
                        }
                    ],

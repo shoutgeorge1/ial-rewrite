@@ -35,3 +35,8 @@
 | /personal-injury-court | https://www.insideraccidentlawyers.com/personal-injury-court | TBD | Informational Article | Enriched | |
 | /attorney-role-pedestrian | https://www.insideraccidentlawyers.com/attorney-role-pedestrian | TBD | Informational Article | Enriched | |
 | /major-car-accident | https://www.insideraccidentlawyers.com/major-car-accident | TBD | Informational Article | Enriched | |
+| /insurance-company-playbook | https://www.insideraccidentlawyers.com/insurance-company-playbook | TBD | Informational Article | New | Playbook overview |
+| /adjuster-claim-valuation | https://www.insideraccidentlawyers.com/adjuster-claim-valuation | TBD | Informational Article | New | Adjuster valuation factors |
+| /proving-claim-value | https://www.insideraccidentlawyers.com/proving-claim-value | TBD | Informational Article | New | Evidence and damages proof |
+| /demand-letter-negotiation | https://www.insideraccidentlawyers.com/demand-letter-negotiation | TBD | Informational Article | New | Demand letters and negotiation |
+| /lowball-offer-response | https://www.insideraccidentlawyers.com/lowball-offer-response | TBD | Informational Article | New | Responding to low offers |
