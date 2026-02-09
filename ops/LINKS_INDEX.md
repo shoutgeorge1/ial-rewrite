@@ -44,3 +44,9 @@
 | /lit-referral-process | https://www.insideraccidentlawyers.com/lit-referral-process | TBD | Informational Article | New | Referral workflow |
 | /lit-referral-criteria | https://www.insideraccidentlawyers.com/lit-referral-criteria | TBD | Informational Article | New | Case selection criteria |
 | /lit-referral-economics | https://www.insideraccidentlawyers.com/lit-referral-economics | TBD | Informational Article | New | Referral economics |
+| /lit-referral-trial-ready-cocounsel | https://www.insideraccidentlawyers.com/lit-referral-trial-ready-cocounsel | TBD | Informational Article | New | Trial-ready co-counsel |
+| /lit-referral-catastrophic-cases | https://www.insideraccidentlawyers.com/lit-referral-catastrophic-cases | TBD | Informational Article | New | Catastrophic referral focus |
+| /lit-referral-truck-litigation | https://www.insideraccidentlawyers.com/lit-referral-truck-litigation | TBD | Informational Article | New | Truck litigation referrals |
+| /lit-referral-brain-injury | https://www.insideraccidentlawyers.com/lit-referral-brain-injury | TBD | Informational Article | New | Brain injury referrals |
+| /lit-referral-wrongful-death | https://www.insideraccidentlawyers.com/lit-referral-wrongful-death | TBD | Informational Article | New | Wrongful death referrals |
+| /lit-referral-coverage-disputes | https://www.insideraccidentlawyers.com/lit-referral-coverage-disputes | TBD | Informational Article | New | Coverage dispute referrals |
