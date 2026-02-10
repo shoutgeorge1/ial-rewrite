@@ -1,4 +1,4 @@
-Original Title: Referral Criteria for Litigation-Ready Cases
+﻿Original Title: Referral Criteria for Litigation-Ready Cases
 Improved Meta Description: Attorney referral page for Los Angeles litigation matters with trial-ready co-counsel, insurer insight, and clear communication.
 Existing H1: Referral Criteria for Litigation-Ready Cases
 Content Tier: Referral
@@ -12,7 +12,7 @@ H2: Key Takeaways
 - Coverage layers and policy limits matter early.
 - Trial readiness improves settlement leverage.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -42,12 +42,12 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common criteria questions.
 - What cases are a good fit for referral?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: High-exposure injury matters, complex liability, catastrophic injuries, TBI, trucking, and wrongful death cases headed toward litigation.
 - Do you handle government or public entity claims?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes, when appropriate and within strict notice deadlines. We handle the government claim process.
 - Will you reject cases that lack liability proof?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We screen for liability strength and may decline weak-liability cases or advise what evidence is needed.
 - Do you accept co-counsel roles?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We co-counsel on larger matters with clear division of responsibilities.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.

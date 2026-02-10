@@ -1,4 +1,4 @@
-Original Title: Slip and Fall Lawyer Los Angeles
+﻿Original Title: Slip and Fall Lawyer Los Angeles
 Improved Meta Description: Los Angeles personal injury representation for personal injury slip and fall with trial-ready strategy, former insurance defense insight, and Spanish-speaking intake.
 Existing H1: Slip and Fall Lawyer Los Angeles
 Content Tier: Support
@@ -15,7 +15,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Why Gaps in Treatment Hurt Your Credibility" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Gaps in Treatment Hurt Your Credibility" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -73,7 +73,7 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common slip and fall questions.
 - What if there was no warning sign?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Lack of warning can show negligence if a hazard existed and was not addressed or marked.
 - Do I need an incident report?
 Answer: An incident report helps document the hazard, but other evidence like photos and witness statements also matters.
 - How long do I have to file?

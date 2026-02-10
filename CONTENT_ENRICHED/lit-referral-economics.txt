@@ -1,4 +1,4 @@
-Original Title: Referral Economics and Case Value Transparency
+﻿Original Title: Referral Economics and Case Value Transparency
 Improved Meta Description: Attorney referral page for Los Angeles litigation matters with trial-ready co-counsel, insurer insight, and clear communication.
 Existing H1: Referral Economics and Case Value Transparency
 Content Tier: Referral
@@ -12,7 +12,7 @@ H2: Key Takeaways
 - Strong documentation prevents adjuster undervaluation.
 - Trial readiness increases settlement authority.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -42,12 +42,12 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common economics questions.
 - Do you provide written referral agreements?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 - How do you approach settlement authority?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We build a trial-ready file, make a supported demand, and use deadlines and litigation readiness to increase authority.
 - Are case costs discussed up front?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We outline costs, advances, and reimbursements in writing at the start.
 - Can you co-counsel on larger matters?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We co-counsel on high-value cases with defined roles and communication standards.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.

@@ -41,9 +41,9 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common valuation questions.
 - What does an adjuster look at first?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Adjusters start with liability clarity, objective medical proof (imaging, specialist notes), treatment consistency, and coverage limits. We build a clean timeline to remove those objections.
 - Do treatment gaps hurt my claim?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Adjusters treat gaps as proof an injury was not serious. If there is a delay, we document the reason and keep treatment consistent.
 - How do I prove pain and suffering?
 Answer: Proof usually includes medical imaging, specialist evaluations, and records that connect the injury to the incident, plus witness or scene evidence.
 - Will my case go to court?
@@ -101,13 +101,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common referral questions.
 - What cases are a good fit for referral?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: High-exposure injury matters, complex liability, catastrophic injuries, TBI, trucking, and wrongful death cases headed toward litigation.
 - How do you communicate with referring attorneys?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We provide direct access to the handling attorney, milestone updates, and written status summaries.
 - Will you take cases to trial if needed?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - Are referral fee agreements documented?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
@@ -175,7 +175,7 @@ Answer: California uses comparative fault, so recovery is reduced by your share 
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - What damages can I recover?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Damages can include medical bills, lost income, future care, and pain and suffering. In wrongful death, families can recover financial support and loss of companionship.
 
 
 Closing: For related topics, see /personal-injury and /attorneys.
@@ -229,9 +229,9 @@ Short answer: These are common brain injury compensation questions.
 - How do you prove a TBI after a crash?
 Answer: Proof usually includes medical imaging, specialist evaluations, and records that connect the injury to the incident, plus witness or scene evidence.
 - Can I recover for future care costs?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes, if supported by medical experts and a life care plan that projects future treatment and costs.
 - What if symptoms appear later?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Some injuries, especially TBI and spine injuries, show delayed symptoms. Prompt evaluation and documentation are key.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Will my case go to court?
@@ -298,9 +298,9 @@ Short answer: These are common brain injury questions.
 - How do you prove a traumatic brain injury?
 Answer: Proof usually includes medical imaging, specialist evaluations, and records that connect the injury to the incident, plus witness or scene evidence.
 - What if symptoms appear weeks later?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Some injuries, especially TBI and spine injuries, show delayed symptoms. Prompt evaluation and documentation are key.
 - Can I recover for future care costs?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes, if supported by medical experts and a life care plan that projects future treatment and costs.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Will my case go to court?
@@ -365,7 +365,7 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common car accident questions.
 - What should I do after a crash in California?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Get to safety, call 911 if needed, exchange info without admitting fault, take photos, get witnesses, and seek medical care even for delayed symptoms.
 - How long do I have to file a claim?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What if I am partly at fault?
@@ -418,13 +418,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common demand letter questions.
 - When should a demand letter be sent?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: After treatment is complete or clearly projected, and well before the statute deadline. Sending too early invites a low offer.
 - Should I demand a specific dollar amount?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. A clear, supported number anchors negotiations. We demand a credible amount backed by itemized damages and a rationale.
 - What if the adjuster responds with a low offer?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: First offers are usually low. We counter with updated medical support and set a response deadline; if they will not move, we file suit.
 - Can negotiation happen without filing a lawsuit?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Most claims are negotiated pre-suit, but the demand must be strong and supported to move authority.
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
@@ -475,13 +475,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common truck injury questions.
 - Who can be held responsible for a truck crash?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Liability can include the manufacturer, distributor, retailer, and any party in the supply chain or maintenance chain.
 - What evidence is unique to trucking cases?
 Answer: Strong evidence includes police reports, photos/video, witness statements, and consistent medical documentation.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Can multiple insurers be involved?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Rideshare and multi-vehicle claims often involve layered policies and multiple coverage sources.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -529,13 +529,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common questions about insurer tactics.
 - Why do insurance companies delay claims?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Delays create leverage and pressure. Insurers also investigate and earn interest while funds are held; firm deadlines counter this tactic.
 - Should I accept the first settlement offer?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Almost never. Early offers are designed to close the file cheaply before full damages are known.
 - What evidence matters most to adjusters?
 Answer: Strong evidence includes police reports, photos/video, witness statements, and consistent medical documentation.
 - Will hiring a lawyer change how insurers respond?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Adjusters treat represented claimants differently because they know we understand valuation tactics and will litigate if needed.
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
@@ -588,13 +588,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common brain injury referral questions.
 - What makes a TBI case referral-ready?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Clear liability, documented neurological injury, treating specialists, and meaningful damages with adequate coverage.
 - How do you counter â€œmild TBIâ€ defenses?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We use neuropsych testing, specialist opinions, imaging when available, and collateral witness statements to document cognitive change.
 - Will you litigate if needed?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We are trial-ready and will litigate when settlement authority is inadequate.
 - Do you provide written referral agreements?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: Brain injury cases often overlap with auto or truck crashes. See /personal-injury/auto-accidents and /personal-injury/truck-accidents, and meet our attorneys at /attorneys.
 
@@ -647,13 +647,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common catastrophic referral questions.
 - What qualifies as a catastrophic referral?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Severe permanent injuries such as spinal cord injury, severe TBI, amputation, major burns, or multiple fractures with lasting impairment.
 - How do you document future care?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We retain life care planners and medical experts to project future treatment needs and costs.
 - Will you litigate if needed?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We are trial-ready and will litigate when settlement authority is inadequate.
 - Do you provide written referral agreements?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
@@ -707,13 +707,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common referral questions.
 - What types of cases do you accept for referral?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: High-exposure injury matters, complex liability, catastrophic injuries, TBI, trucking, and wrongful death cases headed toward litigation.
 - How do you communicate with referring attorneys?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We provide direct access to the handling attorney, milestone updates, and written status summaries.
 - Will you take a case to trial if needed?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - Do you provide referral fee agreements?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
@@ -766,13 +766,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common coverage dispute questions.
 - Can coverage disputes be resolved without litigation?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Sometimes through coverage positions and negotiation, but many require declaratory relief or bad-faith litigation to force payment.
 - Do you handle bad-faith issues?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We coordinate or co-counsel on bad-faith exposure and preserve rights against carriers.
 - Will you coordinate with coverage counsel?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We work closely with coverage counsel on strategy and discovery.
 - Do you provide written referral agreements?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
@@ -825,13 +825,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common criteria questions.
 - What cases are a good fit for referral?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: High-exposure injury matters, complex liability, catastrophic injuries, TBI, trucking, and wrongful death cases headed toward litigation.
 - Do you handle government or public entity claims?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes, when appropriate and within strict notice deadlines. We handle the government claim process.
 - Will you reject cases that lack liability proof?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We screen for liability strength and may decline weak-liability cases or advise what evidence is needed.
 - Do you accept co-counsel roles?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We co-counsel on larger matters with clear division of responsibilities.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
@@ -884,13 +884,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common economics questions.
 - Do you provide written referral agreements?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 - How do you approach settlement authority?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We build a trial-ready file, make a supported demand, and use deadlines and litigation readiness to increase authority.
 - Are case costs discussed up front?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We outline costs, advances, and reimbursements in writing at the start.
 - Can you co-counsel on larger matters?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We co-counsel on high-value cases with defined roles and communication standards.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
@@ -944,13 +944,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common process questions.
 - How quickly can you review a referral?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Typically same day or within 48 hours, depending on records and conflicts checks.
 - Do you handle referred client communication?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We handle client communications while keeping referring counsel informed and involved.
 - Can you step in as trial counsel?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - Is the referral fee documented?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
@@ -1003,13 +1003,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common co-counsel questions.
 - Do you accept co-counsel roles?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We co-counsel on larger matters with clear division of responsibilities.
 - How do you communicate with referring counsel?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We provide direct access to the handling attorney, milestone updates, and written status summaries.
 - Will you take the case to trial?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - Are agreements documented?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
@@ -1062,13 +1062,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common trucking referral questions.
 - Who can be held responsible in a truck case?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Liability can include the manufacturer, distributor, retailer, and any party in the supply chain or maintenance chain.
 - How fast do you need evidence?
 Answer: Strong evidence includes police reports, photos/video, witness statements, and consistent medical documentation.
 - Will you litigate if needed?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We are trial-ready and will litigate when settlement authority is inadequate.
 - Do you provide written referral agreements?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: Truck cases often involve catastrophic injuries. See /personal-injury/catastrophic-injuries and /personal-injury/brain-injuries, and meet our team at /attorneys.
 
@@ -1121,13 +1121,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common wrongful death referral questions.
 - What makes a wrongful death case referral-ready?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Clear liability, identified heirs, documented economic losses, and available insurance or assets.
 - How do you handle family communication?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We designate a point of contact, provide regular updates, and coordinate decisions with the family and referring counsel.
 - Will you litigate if needed?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We are trial-ready and will litigate when settlement authority is inadequate.
 - Do you provide written referral agreements?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: Wrongful death matters often follow serious vehicle or premises cases. See /personal-injury/auto-accidents and /personal-injury/premises-liability, and meet our team at /attorneys.
 
@@ -1171,13 +1171,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common lowball-offer questions.
 - Is the first offer usually fair?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: First offers are usually low. We counter with updated medical support and set a response deadline; if they will not move, we file suit.
 - Should I respond directly to the adjuster?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: It is better to respond through counsel to avoid recorded statements and preserve negotiation leverage.
 - How long should I negotiate before filing suit?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Will a lawsuit increase my settlement?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Often, yes. Filing suit increases risk and costs for insurers, which can raise settlement authority.
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
@@ -1228,11 +1228,11 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common major crash questions.
 - What should I do immediately after a serious accident?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Get to safety, call 911 if needed, exchange info without admitting fault, take photos, get witnesses, and seek medical care even for delayed symptoms.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What if multiple drivers were involved?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Multiple drivers can share fault. We identify each policy and pursue all available coverages based on comparative fault.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - What compensation can I recover?
@@ -1297,13 +1297,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common motorcycle accident questions.
 - What if the driver says they did not see me?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Failure to see a visible rider is not a defense. We use right-of-way laws, scene evidence, and visibility analysis to prove negligence.
 - Can I recover if I was lane-splitting?
 Answer: Lane-splitting is generally legal in California and does not automatically bar recovery.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What damages are available for permanent injuries?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Damages can include medical bills, lost income, future care, and pain and suffering. In wrongful death, families can recover financial support and loss of companionship.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -1357,13 +1357,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common motorcycle accident questions.
 - What if the driver says they did not see me?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Failure to see a visible rider is not a defense. We use right-of-way laws, scene evidence, and visibility analysis to prove negligence.
 - Can I recover if I was lane-splitting?
 Answer: Lane-splitting is generally legal in California and does not automatically bar recovery.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What damages are available for permanent injuries?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Damages can include medical bills, lost income, future care, and pain and suffering. In wrongful death, families can recover financial support and loss of companionship.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -1423,7 +1423,7 @@ Answer: California uses comparative fault, so recovery is reduced by your share 
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What if the driver fled?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Report the hit-and-run immediately, gather any witness info, and use uninsured motorist coverage if the driver is not identified.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -1527,13 +1527,13 @@ Short answer: These are the questions most accident victims ask early.
 - How long do I have to file a personal injury claim in California?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What if I am partially at fault for the accident?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: California uses pure comparative fault. If you are 30% at fault, your recovery is reduced by 30%, not eliminated.
 - Will my case go to Los Angeles Superior Court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - How much is my personal injury case worth?
 Answer: Value depends on liability strength, injury severity, treatment costs, wage loss, and available coverage.
 - Do I pay fees upfront?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: No. We work on contingency, so there are no attorney fees unless we recover compensation. Case costs may be advanced and deducted from the recovery.
 
 H2: Speak With a Los Angeles Personal Injury Attorney
 Short answer: Early legal advice protects evidence and your recovery.
@@ -1619,11 +1619,11 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common dog bite concerns.
 - Is a dog owner always liable in California?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: California has strict liability for dog bites in public or when you are lawfully on private property, even if the dog never bit before.
 - What if the bite happened on private property?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: If you were lawfully on the property, strict liability still applies. Trespassing can reduce or bar recovery.
 - Can I file a claim for a child?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. A parent or guardian can file on the childâ€™s behalf, and settlements for minors require court approval.
 - How long do I have to sue?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What damages are available for scarring?
@@ -1715,7 +1715,7 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common questions after a crash.
 - What should I do immediately after a car accident in Los Angeles?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Get to safety, call 911 if needed, exchange info without admitting fault, take photos, get witnesses, and seek medical care even for delayed symptoms.
 - How long do I have to file a claim?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Will my case go to court?
@@ -1809,9 +1809,9 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common cyclist questions.
 - What if I was hit in a bike lane?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Drivers must yield to cyclists in bike lanes. We use scene evidence and traffic laws to establish fault.
 - Can I recover damages without a police report?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes, but it is harder. Photos, witnesses, medical records, and scene evidence become critical.
 - How does comparative fault affect my claim?
 Answer: California uses comparative fault, so recovery is reduced by your share of fault rather than barred entirely.
 - What evidence helps prove driver fault?
@@ -1905,9 +1905,9 @@ Short answer: These are common TBI concerns.
 - How do you prove a brain injury after a crash?
 Answer: Proof usually includes medical imaging, specialist evaluations, and records that connect the injury to the incident, plus witness or scene evidence.
 - Can symptoms appear weeks later?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Some injuries, especially TBI and spine injuries, show delayed symptoms. Prompt evaluation and documentation are key.
 - What if the insurance company says it is minor?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We counter minimization with objective testing, specialist evaluations, and a clear symptom timeline tied to the crash.
 - How long do I have to file a claim?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Will my case go to trial?
@@ -1997,11 +1997,11 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common catastrophic injury questions.
 - What qualifies as a catastrophic injury?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Injuries causing permanent impairment, such as spinal cord injury, severe TBI, amputations, or major burns.
 - How are future care costs calculated?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Future care is calculated through a life care plan using medical experts, projected treatment, and cost data.
 - What if multiple parties are responsible?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We can pursue claims against all responsible parties and their insurers based on comparative fault.
 - How long do I have to file a claim?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Will my case go to trial?
@@ -2062,7 +2062,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 - How long does a personal injury case take?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What if the insurance company refuses to settle?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We file suit and use discovery, experts, and court deadlines to push the case toward fair value.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Can mediation avoid trial?
@@ -2151,13 +2151,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common rider questions.
 - What if the driver says they did not see me?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Failure to see a visible rider is not a defense. We use right-of-way laws, scene evidence, and visibility analysis to prove negligence.
 - Can I still recover if I was lane-splitting?
 Answer: Lane-splitting is generally legal in California and does not automatically bar recovery.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What damages are available for permanent injuries?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Damages can include medical bills, lost income, future care, and pain and suffering. In wrongful death, families can recover financial support and loss of companionship.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -2251,7 +2251,7 @@ Answer: California uses comparative fault, so recovery is reduced by your share 
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What if the driver fled the scene?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Report the hit-and-run immediately, gather any witness info, and use uninsured motorist coverage if the driver is not identified.
 - Will I have to go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -2339,7 +2339,7 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common premises liability questions.
 - What if the property owner says they did not know?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Owners are liable if they knew or should have known. We prove notice with records, photos, and witness statements.
 - Do I need an incident report?
 Answer: An incident report helps document the hazard, but other evidence like photos and witness statements also matters.
 - How long do I have to file?
@@ -2433,11 +2433,11 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common product liability concerns.
 - Do I need to keep the defective product?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Preserve the product and packaging to allow inspection and testing.
 - What if I used the product as instructed?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Using the product as intended strengthens a defect claim and limits misuse defenses.
 - Who can be held responsible?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Liability can include the manufacturer, distributor, retailer, and any party in the supply chain or maintenance chain.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Will my case go to court?
@@ -2527,7 +2527,7 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common slip and fall questions.
 - What if there was no warning sign?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Lack of warning can show negligence if a hazard existed and was not addressed or marked.
 - Do I need an incident report?
 Answer: An incident report helps document the hazard, but other evidence like photos and witness statements also matters.
 - How long do I have to file?
@@ -2623,9 +2623,9 @@ Short answer: These are common spine injury questions.
 - How do you prove a spinal cord injury claim?
 Answer: Proof usually includes medical imaging, specialist evaluations, and records that connect the injury to the incident, plus witness or scene evidence.
 - Can I recover for lifelong care costs?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes, if supported by medical experts and a life care plan that projects future treatment and costs.
 - What if the insurance company denies fault?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: A denial is not the end of the claim. We investigate, secure evidence, and use experts to establish liability.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Will my case go to trial?
@@ -2715,13 +2715,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common truck accident questions.
 - Who can be held responsible in a truck crash?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Liability can include the manufacturer, distributor, retailer, and any party in the supply chain or maintenance chain.
 - How do federal trucking rules affect my case?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: FMCSA rules govern hours, maintenance, and driver qualifications. Violations can establish negligence.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What if the trucking company denies fault?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We secure logs, black-box data, maintenance records, and dispatch notes to prove liability.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -2815,7 +2815,7 @@ Answer: Rideshare coverage depends on app status and trip phase; we determine wh
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Can I recover if I was a passenger?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Passengers can pursue claims against the at-fault driver and applicable insurance policies.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -2907,7 +2907,7 @@ Answer: Typically spouses, children, or other eligible heirs can file, subject t
 - How long do we have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What damages are available for family members?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Damages can include medical bills, lost income, future care, and pain and suffering. In wrongful death, families can recover financial support and loss of companionship.
 - Will the case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - What if the deceased was partly at fault?
@@ -2964,9 +2964,9 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common dog bite questions.
 - Is the owner always liable?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: California has strict liability for dog bites in public or when you are lawfully on private property, even if the dog never bit before.
 - What if the dog had never bitten before?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Prior bites are not required in California. Owners are still strictly liable for most dog bites.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Can I recover for scarring?
@@ -3035,7 +3035,7 @@ Short answer: These are common premises liability questions.
 - Do I need an incident report to file a claim?
 Answer: An incident report helps document the hazard, but other evidence like photos and witness statements also matters.
 - What if the owner says they did not know?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Owners are liable if they knew or should have known. We prove notice with records, photos, and witness statements.
 - How long do I have to sue?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What if I was partly at fault?
@@ -3102,13 +3102,13 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common product liability questions.
 - Do I need to keep the defective product?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Preserve the product and packaging to allow inspection and testing.
 - Who can be held responsible?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Liability can include the manufacturer, distributor, retailer, and any party in the supply chain or maintenance chain.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - What if I used the product correctly?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Using the product as intended strengthens a defect claim and limits misuse defenses.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -3158,9 +3158,9 @@ Short answer: These are common proof questions.
 - What evidence matters most?
 Answer: Strong evidence includes police reports, photos/video, witness statements, and consistent medical documentation.
 - Do photos and videos help?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Scene photos, vehicle damage, visible injuries, and daily-life videos can support liability and pain-and-suffering damages.
 - What if I had a preexisting condition?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: California follows the eggshell plaintiff rule. You can recover for an aggravation of a preexisting condition if the crash made it worse.
 - How long does it take to build a strong case?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 
@@ -3224,11 +3224,11 @@ Short answer: These are common rideshare complexity questions.
 - Which insurance policy applies to my crash?
 Answer: Rideshare coverage depends on app status and trip phase; we determine which policy applies.
 - What if I was a passenger?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Passengers can pursue claims against the at-fault driver and applicable insurance policies.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Can I recover from more than one insurer?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Rideshare and multi-vehicle claims often involve layered policies and multiple coverage sources.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -3293,9 +3293,9 @@ Short answer: These are common spine injury questions.
 - How do you prove a spinal cord injury claim?
 Answer: Proof usually includes medical imaging, specialist evaluations, and records that connect the injury to the incident, plus witness or scene evidence.
 - Can I recover for lifelong care costs?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes, if supported by medical experts and a life care plan that projects future treatment and costs.
 - What if the insurance company denies fault?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: A denial is not the end of the claim. We investigate, secure evidence, and use experts to establish liability.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Will my case go to trial?
@@ -3353,11 +3353,11 @@ Short answer: These are common rideshare claim questions.
 - Which policy applies if the driver was waiting for a ride?
 Answer: Rideshare coverage depends on app status and trip phase; we determine which policy applies.
 - What if I was a passenger?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Passengers can pursue claims against the at-fault driver and applicable insurance policies.
 - How long do I have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Can I recover from multiple insurers?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Rideshare and multi-vehicle claims often involve layered policies and multiple coverage sources.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 
@@ -3422,7 +3422,7 @@ Short answer: These are common wrongful death questions.
 - Who can file a wrongful death claim?
 Answer: Typically spouses, children, or other eligible heirs can file, subject to California statute and timing.
 - What damages are available?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Damages can include medical bills, lost income, future care, and pain and suffering. In wrongful death, families can recover financial support and loss of companionship.
 - How long do we have to file?
 Answer: Most California personal injury claims have a two-year deadline, but government claims and certain malpractice cases can be shorter.
 - Will the case go to court?
@@ -3491,11 +3491,11 @@ Short answer: These are common wrongful death deadline questions.
 - Who can file a wrongful death claim?
 Answer: Typically spouses, children, or other eligible heirs can file, subject to California statute and timing.
 - What if the cause of death was discovered later?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Delayed discovery may extend the deadline in limited situations. We analyze timelines carefully.
 - Do government claims have special deadlines?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. Claims against public entities usually require a notice within six months.
 - Can the deadline be extended?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Extensions are limited. Some cases involve delayed discovery or minor beneficiaries, but do not rely on extensions.
 - Will my case go to court?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 

@@ -1,4 +1,4 @@
-Original Title: Attorney Referrals
+﻿Original Title: Attorney Referrals
 Improved Meta Description: Attorney referral page for Los Angeles litigation matters with trial-ready co-counsel, insurer insight, and clear communication.
 Existing H1: Attorney Referrals
 Content Tier: Referral
@@ -13,7 +13,7 @@ H2: Key Takeaways
 - Clear, compliant referral agreements reduce friction.
 - Los Angeles courtroom familiarity supports high-stakes litigation.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -43,12 +43,12 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common referral questions.
 - What cases are a good fit for referral?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: High-exposure injury matters, complex liability, catastrophic injuries, TBI, trucking, and wrongful death cases headed toward litigation.
 - How do you communicate with referring attorneys?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: We provide direct access to the handling attorney, milestone updates, and written status summaries.
 - Will you take cases to trial if needed?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - Are referral fee agreements documented?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.

@@ -1,4 +1,4 @@
-Original Title: Litigation Referral Process
+﻿Original Title: Litigation Referral Process
 Improved Meta Description: Attorney referral page for Los Angeles litigation matters with trial-ready co-counsel, insurer insight, and clear communication.
 Existing H1: Litigation Referral Process
 Content Tier: Referral
@@ -12,7 +12,7 @@ H2: Key Takeaways
 - Trial-ready preparation increases settlement authority.
 - Communication is consistent and transparent throughout the case.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -43,12 +43,12 @@ H2: FAQs
 These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common process questions.
 - How quickly can you review a referral?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Typically same day or within 48 hours, depending on records and conflicts checks.
 - Do you handle referred client communication?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We handle client communications while keeping referring counsel informed and involved.
 - Can you step in as trial counsel?
 Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - Is the referral fee documented?
-Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+Answer: Yes. We use written agreements that outline fee splits, responsibilities, and client consent to comply with California rules.
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
