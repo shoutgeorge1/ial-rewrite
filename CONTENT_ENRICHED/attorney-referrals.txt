@@ -1,10 +1,11 @@
 Original Title: Attorney Referrals
-Improved Meta Description: Attorney referral support for complex injury cases in Los Angeles. Insider Accident Lawyers offers trial-ready co-counsel, insurer-side insight, and clear communication.
+Improved Meta Description: Attorney referral page for Los Angeles litigation matters with trial-ready co-counsel, insurer insight, and clear communication.
 Existing H1: Attorney Referrals
+Content Tier: Referral
 
 ENHANCED BODY CONTENT:
 H1: Attorney Referrals
-Intro: Insider Accident Lawyers provides attorney referral support for complex personal injury matters in Los Angeles and throughout California. Our team includes former insurance defense attorneys and senior trial lawyers who prepare every case for Los Angeles Superior Court. We accept referrals for high-exposure cases and provide transparent communication and compliant fee-sharing agreements.
+Intro: This page is for referring attorneys seeking trial-ready co-counsel in Los Angeles. It outlines referral criteria, communication standards, and litigation posture. Our team includes former insurance defense counsel and senior trial attorneys.
 
 H2: Key Takeaways
 - Trial-ready preparation protects case value.
@@ -12,7 +13,7 @@ H2: Key Takeaways
 - Clear, compliant referral agreements reduce friction.
 - Los Angeles courtroom familiarity supports high-stakes litigation.
 
-Quote: "Behind the scenes, insurance adjusters are working off a playbook designed to reduce the value of your claim." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -24,26 +25,30 @@ Short answer: Insurer insight and litigation experience improve referral outcome
 - We coordinate experts early for complex injuries.
 
 H2: Common Causes / Legal Issues
+See also:
+Related: /personal-injury
+
 Short answer: We focus on cases that require advanced litigation strategy.
 - Catastrophic injury and wrongful death
 - Truck and multi-vehicle collisions
 - Disputed liability, causation, or coverage layers
 
-H2: How We Help
+H2: How We Help Referring Attorneys
 Short answer: We provide a structured referral workflow and case updates.
 - Rapid case evaluation and written referral agreements
 - Evidence preservation and expert coordination
 - Trial-ready development and negotiation posture
 
 H2: FAQs
+These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common referral questions.
 - What cases are a good fit for referral?
-Answer: Complex injury matters with high exposure or disputed liability.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 - How do you communicate with referring attorneys?
-Answer: We provide consistent updates and collaborative strategy discussions.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 - Will you take cases to trial if needed?
-Answer: Yes. We prepare for trial and litigate when necessary.
+Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - Are referral fee agreements documented?
-Answer: Yes, in writing and in compliance with State Bar rules.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 
-Closing: For related pages, see /attorney-referrals, /personal-injury, /personal-injury/truck-accidents, /personal-injury/brain-injuries, /personal-injury/wrongful-death, and /attorneys.
+Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.

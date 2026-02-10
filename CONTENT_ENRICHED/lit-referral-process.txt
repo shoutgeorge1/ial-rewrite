@@ -1,17 +1,18 @@
 Original Title: Litigation Referral Process
-Improved Meta Description: A clear, trial-focused referral process for attorneys seeking co-counsel in Los Angeles. Insider Accident Lawyers provides insurer insight and courtroom readiness.
+Improved Meta Description: Attorney referral page for Los Angeles litigation matters with trial-ready co-counsel, insurer insight, and clear communication.
 Existing H1: Litigation Referral Process
+Content Tier: Referral
 
 ENHANCED BODY CONTENT:
 H1: Litigation Referral Process
-Intro: Insider Accident Lawyers provides a structured referral process for attorneys who want trial-ready litigation support in Los Angeles. Our team includes former insurance defense attorneys and senior trial lawyers, giving us an insider view of how carriers value and defend claims.
+Intro: This page is for referring attorneys seeking trial-ready co-counsel in Los Angeles. It outlines referral criteria, communication standards, and litigation posture. Our team includes former insurance defense counsel and senior trial attorneys.
 H2: Key Takeaways
 - A clear referral process reduces friction and speeds case evaluation.
 - Early evidence preservation improves liability and damages proof.
 - Trial-ready preparation increases settlement authority.
 - Communication is consistent and transparent throughout the case.
 
-Quote: "The more you know, the better prepared you'll be—and the more likely you are to walk away with the full and fair compensation you deserve." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -23,12 +24,15 @@ Short answer: Litigation experience helps maintain case value from day one.
 - Los Angeles courtroom familiarity informs case posture.
 
 H2: Common Causes / Legal Issues
+See also:
+Related: /personal-injury
+
 Short answer: We prioritize complex and high-exposure cases.
 - Catastrophic injuries and wrongful death
 - Commercial truck and multi-vehicle collisions
 - Disputed liability and causation issues
 
-H2: How We Help
+H2: How We Help Referring Attorneys
 Short answer: We move quickly from intake to trial-ready preparation.
 - Rapid case review and referral fee agreement
 - Evidence preservation and expert coordination
@@ -36,14 +40,15 @@ Short answer: We move quickly from intake to trial-ready preparation.
 - Ongoing updates for referring counsel
 
 H2: FAQs
+These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common process questions.
 - How quickly can you review a referral?
-Answer: We prioritize quick review to preserve evidence and timelines.
-- Do you handle client communication?
-Answer: Yes, with clear reporting back to referring counsel.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
+- Do you handle referred client communication?
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 - Can you step in as trial counsel?
-Answer: Yes. We prepare cases for trial and litigate when necessary.
+Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - Is the referral fee documented?
-Answer: Yes, in a written agreement consistent with State Bar rules.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 
-Closing: For related pages, see /attorney-referrals, /personal-injury, /personal-injury/auto-accidents, /personal-injury/truck-accidents, /personal-injury/wrongful-death, and /attorneys.
+Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.

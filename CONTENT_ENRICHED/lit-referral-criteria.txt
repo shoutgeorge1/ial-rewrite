@@ -1,17 +1,18 @@
 Original Title: Referral Criteria for Litigation-Ready Cases
-Improved Meta Description: Case selection criteria for attorney referrals to Insider Accident Lawyers in Los Angeles. Focused on complex liability and high-exposure matters.
+Improved Meta Description: Attorney referral page for Los Angeles litigation matters with trial-ready co-counsel, insurer insight, and clear communication.
 Existing H1: Referral Criteria for Litigation-Ready Cases
+Content Tier: Referral
 
 ENHANCED BODY CONTENT:
 H1: Referral Criteria for Litigation-Ready Cases
-Intro: Insider Accident Lawyers accepts referrals for complex personal injury matters that require trial-ready preparation. Our team’s former insurance defense background helps us evaluate case value and coverage quickly, while our litigators prepare cases for Los Angeles Superior Court.
+Intro: This page is for referring attorneys seeking trial-ready co-counsel in Los Angeles. It outlines referral criteria, communication standards, and litigation posture. Our team includes former insurance defense counsel and senior trial attorneys.
 H2: Key Takeaways
 - Strong liability evidence drives claim value.
 - Complex injuries require expert documentation.
 - Coverage layers and policy limits matter early.
 - Trial readiness improves settlement leverage.
 
-Quote: "Insurance companies are for-profit businesses. Every dollar they pay in claims is a dollar off their bottom line." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -23,26 +24,30 @@ Short answer: Former defense insight helps evaluate exposure and risk.
 - We prepare cases for trial when needed.
 
 H2: Common Causes / Legal Issues
+See also:
+Related: /personal-injury
+
 Short answer: We prioritize cases with high exposure and complex proof.
 - Catastrophic injuries and wrongful death
 - Commercial trucking and multi-party crashes
 - Disputed causation or comparative fault
 
-H2: How We Help
+H2: How We Help Referring Attorneys
 Short answer: We build a trial-ready case file from the outset.
 - Evidence preservation and expert engagement
 - Medical and economic damages modeling
 - Strategic demand and negotiation posture
 
 H2: FAQs
+These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common criteria questions.
 - What cases are a good fit for referral?
-Answer: High-exposure injury cases with complex liability or damages.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 - Do you handle government or public entity claims?
-Answer: We can evaluate those matters on a case-by-case basis.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 - Will you reject cases that lack liability proof?
-Answer: We assess proof strength early and advise on next steps.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 - Do you accept co-counsel roles?
-Answer: Yes, where appropriate and compliant with ethics rules.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 
-Closing: For related pages, see /attorney-referrals, /personal-injury, /personal-injury/brain-injuries, /personal-injury/truck-accidents, /personal-injury/wrongful-death, and /attorneys.
+Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.

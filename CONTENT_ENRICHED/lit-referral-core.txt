@@ -1,17 +1,18 @@
 Original Title: Litigation Referral Core Overview
-Improved Meta Description: Litigation referral overview for attorneys seeking trial-ready co-counsel in Los Angeles. Insider Accident Lawyers brings former insurance defense insight and courtroom experience.
+Improved Meta Description: Attorney referral page for Los Angeles litigation matters with trial-ready co-counsel, insurer insight, and clear communication.
 Existing H1: Litigation Referral Core Overview
+Content Tier: Referral
 
 ENHANCED BODY CONTENT:
 H1: Litigation Referral Core Overview
-Intro: Insider Accident Lawyers is a Los Angeles personal injury firm that accepts litigation referrals from attorneys who want trial-ready co-counsel. Our leadership includes former insurance defense attorneys and veteran litigators who prepare every case for Los Angeles Superior Court. We provide clear referral criteria, transparent communication, and a client-first process.
+Intro: This page is for referring attorneys seeking trial-ready co-counsel in Los Angeles. It outlines referral criteria, communication standards, and litigation posture. Our team includes former insurance defense counsel and senior trial attorneys.
 H2: Key Takeaways
 - Trial-ready preparation strengthens case value and settlement leverage.
 - Former insurance defense insight helps anticipate adjuster tactics.
 - Referral counsel receives clear, consistent case updates.
 - Los Angeles courtroom familiarity supports high-stakes litigation.
 
-Quote: "Behind the scenes, insurance adjusters are working off a playbook designed to reduce the value of your claim." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -23,27 +24,31 @@ Short answer: Trial credibility and insurer insight improve referral outcomes.
 - We coordinate expert support and trial preparation early.
 
 H2: Common Causes / Legal Issues
+See also:
+Related: /personal-injury
+
 Short answer: We focus on complex injury and liability disputes.
 - Catastrophic injury and wrongful death matters
 - Multi-policy and coverage-layer claims
 - Liability disputes and causation challenges
 
-H2: How We Help
+H2: How We Help Referring Attorneys
 Short answer: We support referring counsel with a clear litigation plan.
 - Rapid case review and eligibility assessment
 - Evidence preservation and expert coordination
 - Trial-ready case development and settlement strategy
-- Transparent updates and cooperative client management
+- Transparent updates and cooperative referred client management
 
 H2: FAQs
+These answers summarize common questions based on the Playbook and standard California practice.
 Short answer: These are common referral questions.
 - What types of cases do you accept for referral?
-Answer: We focus on complex injury matters, liability disputes, and high-exposure cases.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 - How do you communicate with referring attorneys?
-Answer: We provide structured updates and collaborative strategy discussions.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 - Will you take a case to trial if needed?
-Answer: Yes. We prepare every case for trial and litigate when necessary.
+Answer: Most cases settle, but trial-ready preparation improves leverage and protects value if litigation is required.
 - Do you provide referral fee agreements?
-Answer: Yes, in compliance with all State Bar rules.
+Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 
-Closing: For related pages, see /attorney-referrals, /personal-injury, /personal-injury/truck-accidents, /personal-injury/brain-injuries, /personal-injury/wrongful-death, and /attorneys.
+Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
