@@ -1,7 +1,6 @@
-# IAL Full Content Pack
+﻿# IAL Full Content Pack
 
 This file concatenates all content for LLM review.
-
 
 ---
 FILE: CONTENT_ENRICHED/adjuster-claim-valuation.txt
@@ -21,7 +20,7 @@ H2: Key Takeaways
 - Objective evidence and consistent treatment improve outcomes.
 - Trial-ready preparation changes negotiation dynamics.
 
-Quote: "Adjusters Manipulate the Data" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Adjusters Manipulate the Data" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -52,6 +51,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/attorney-referrals.txt
 ---
@@ -71,7 +71,7 @@ H2: Key Takeaways
 - Clear, compliant referral agreements reduce friction.
 - Los Angeles courtroom familiarity supports high-stakes litigation.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -111,6 +111,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/attorney-role-pedestrian.txt
 ---
@@ -133,7 +134,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Adjuster's Report to the Supervisor" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Adjuster's Report to the Supervisor" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Gaps in treatment or delayed care are common reasons adjusters reduce value. Consistent records and clear physician notes help protect recovery. Book Insight: Treatment proportionality matters in valuation. Care that matches the injury severity helps avoid devaluation. 
 
 Book Insight: Liability and damages are the two pillars of claim value, and both require objective evidence.
@@ -179,6 +180,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/brain-injury.txt
 ---
@@ -201,7 +203,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Liability and Damages: The Two Pillars of Every Claim" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Liability and Damages: The Two Pillars of Every Claim" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -209,7 +211,7 @@ Book Insight: Insurers use internal reserves and incremented authority that rewa
 H2: Why Experience Matters
 Short answer: Brain injury claims require medical proof and long-term damage analysis.
 H3: Why Former Insurance Defense Attorneys Approach Cases Differently
-- We counter minimization of “mild” symptoms.
+- We counter minimization of â€œmildâ€ symptoms.
 - We secure neurology and life-care expert support.
 - We evaluate policy limits and coverage early.
 + We prepare trial-ready files to strengthen settlement leverage.
@@ -238,6 +240,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: Brain injury cases often overlap with auto or truck crashes. See /personal-injury/auto-accidents and /personal-injury/truck-accidents, and meet our attorneys at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/brain-injury-attorney.txt
 ---
@@ -260,7 +263,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Liability and Damages: The Two Pillars of Every Claim" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Liability and Damages: The Two Pillars of Every Claim" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -268,7 +271,7 @@ Book Insight: Low initial offers are a common tactic; strong documentation and t
 H2: Why Experience Matters
 Short answer: Brain injury claims require early medical proof and future-care planning.
 H3: Why Former Insurance Defense Attorneys Approach Cases Differently
-- We counter minimization of “mild” TBI symptoms.
+- We counter minimization of â€œmildâ€ TBI symptoms.
 - We build causation evidence through experts and imaging.
 - We evaluate policy limits and coverage early.
 + We prepare trial-ready files to strengthen settlement leverage.
@@ -306,6 +309,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: Brain injury cases often overlap with auto or truck crashes. See /personal-injury/auto-accidents and /personal-injury/truck-accidents, and meet our attorneys at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/california-car-accident-lawyer.txt
 ---
@@ -328,7 +332,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The less you know about how the system works, the more power they have." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The less you know about how the system works, the more power they have." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -374,6 +378,7 @@ Answer: Value depends on liability strength, injury severity, treatment costs, w
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/demand-letter-negotiation.txt
 ---
@@ -392,7 +397,7 @@ H2: Key Takeaways
 - Trial-ready preparation strengthens negotiating leverage.
 - Early missteps can reduce claim value.
 
-Quote: "Demand Letter" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Demand Letter" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -423,6 +428,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/injuries-truck-accidents.txt
 ---
@@ -445,7 +451,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Expect Delays for High-Value Claims" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Expect Delays for High-Value Claims" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Gaps in treatment or delayed care are common reasons adjusters reduce value. Consistent records and clear physician notes help protect recovery. Book Insight: Treatment proportionality matters in valuation. Care that matches the injury severity helps avoid devaluation. 
 
 Book Insight: Liability and damages are the two pillars of claim value, and both require objective evidence.
@@ -482,6 +488,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: Truck cases often involve catastrophic injuries. See /personal-injury/catastrophic-injuries and /personal-injury/brain-injuries, and meet our team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/insurance-company-playbook.txt
 ---
@@ -493,14 +500,14 @@ Content Tier: Utility
 
 ENHANCED BODY CONTENT:
 H1: How Insurance Companies Handle Injury Claims
-Intro: Insider Accident Lawyers is a Los Angeles personal injury firm led by former insurance defense attorneys. Our team has handled injury claims from the insurer’s side and now uses that experience to protect injured clients. This page summarizes how insurance companies process claims, why delays happen, and how to respond with strong documentation and trial-ready preparation.
+Intro: Insider Accident Lawyers is a Los Angeles personal injury firm led by former insurance defense attorneys. Our team has handled injury claims from the insurerâ€™s side and now uses that experience to protect injured clients. This page summarizes how insurance companies process claims, why delays happen, and how to respond with strong documentation and trial-ready preparation.
 H2: Key Takeaways
 - Insurance claims departments are built to minimize payouts.
 - Delays and low initial offers are standard tactics.
 - Strong evidence and consistent treatment history drive value.
 - Trial-ready preparation increases settlement leverage.
 
-Quote: "The system is rigged against you." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The system is rigged against you." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -532,6 +539,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/lit-referral-brain-injury.txt
 ---
@@ -550,7 +558,7 @@ H2: Key Takeaways
 - Trial readiness strengthens settlement leverage.
 - Los Angeles courtroom familiarity supports high-exposure cases.
 
-Quote: "Liability and Damages: The Two Pillars of Every Claim" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Liability and Damages: The Two Pillars of Every Claim" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -581,7 +589,7 @@ These answers summarize common questions based on the Playbook and standard Cali
 Short answer: These are common brain injury referral questions.
 - What makes a TBI case referral-ready?
 Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
-- How do you counter “mild TBI” defenses?
+- How do you counter â€œmild TBIâ€ defenses?
 Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 - Will you litigate if needed?
 Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
@@ -589,6 +597,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 Answer: Each case is unique, but the standard evidence includes medical records, documented symptoms, and liability proof.
 
 Closing: Brain injury cases often overlap with auto or truck crashes. See /personal-injury/auto-accidents and /personal-injury/truck-accidents, and meet our attorneys at /attorneys.
+
 
 ---
 FILE: CONTENT_ENRICHED/lit-referral-catastrophic-cases.txt
@@ -608,7 +617,7 @@ H2: Key Takeaways
 - Trial readiness improves settlement leverage.
 - Los Angeles courtroom familiarity matters in high exposure cases.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -648,6 +657,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/lit-referral-core.txt
 ---
@@ -666,7 +676,7 @@ H2: Key Takeaways
 - Referral counsel receives clear, consistent case updates.
 - Los Angeles courtroom familiarity supports high-stakes litigation.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -707,6 +717,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/lit-referral-coverage-disputes.txt
 ---
@@ -725,7 +736,7 @@ H2: Key Takeaways
 - Trial readiness improves settlement authority.
 - Los Angeles courtroom familiarity strengthens litigation posture.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Gaps in treatment or delayed care are common reasons adjusters reduce value. Consistent records and clear physician notes help protect recovery. Book Insight: Treatment proportionality matters in valuation. Care that matches the injury severity helps avoid devaluation. 
 
 Book Insight: Liability and damages are the two pillars of claim value, and both require objective evidence.
@@ -765,6 +776,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/lit-referral-criteria.txt
 ---
@@ -783,7 +795,7 @@ H2: Key Takeaways
 - Coverage layers and policy limits matter early.
 - Trial readiness improves settlement leverage.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -823,6 +835,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/lit-referral-economics.txt
 ---
@@ -841,7 +854,7 @@ H2: Key Takeaways
 - Strong documentation prevents adjuster undervaluation.
 - Trial readiness increases settlement authority.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -881,6 +894,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/lit-referral-process.txt
 ---
@@ -899,7 +913,7 @@ H2: Key Takeaways
 - Trial-ready preparation increases settlement authority.
 - Communication is consistent and transparent throughout the case.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -940,6 +954,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/lit-referral-trial-ready-cocounsel.txt
 ---
@@ -958,7 +973,7 @@ H2: Key Takeaways
 - Clear co-counsel roles reduce referred client confusion.
 - Los Angeles courtroom familiarity strengthens strategy.
 
-Quote: "Why Insurance Companies Take Attorneys Seriously" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Insurance Companies Take Attorneys Seriously" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -998,6 +1013,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For attorney resources, see /attorney-referrals and related litigation referral pages, and meet our trial team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/lit-referral-truck-litigation.txt
 ---
@@ -1016,7 +1032,7 @@ H2: Key Takeaways
 - Trial-ready posture improves settlement authority.
 - Los Angeles courtroom familiarity supports complex litigation.
 
-Quote: "Expect Delays for High-Value Claims" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Expect Delays for High-Value Claims" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Gaps in treatment or delayed care are common reasons adjusters reduce value. Consistent records and clear physician notes help protect recovery. Book Insight: Treatment proportionality matters in valuation. Care that matches the injury severity helps avoid devaluation. 
 
 Book Insight: Liability and damages are the two pillars of claim value, and both require objective evidence.
@@ -1056,6 +1072,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: Truck cases often involve catastrophic injuries. See /personal-injury/catastrophic-injuries and /personal-injury/brain-injuries, and meet our team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/lit-referral-wrongful-death.txt
 ---
@@ -1074,7 +1091,7 @@ H2: Key Takeaways
 - Trial readiness improves settlement leverage.
 - Los Angeles courtroom familiarity supports high-exposure claims.
 
-Quote: "The Game Changes When a Lawsuit Is Filed" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Game Changes When a Lawsuit Is Filed" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -1114,6 +1131,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: Wrongful death matters often follow serious vehicle or premises cases. See /personal-injury/auto-accidents and /personal-injury/premises-liability, and meet our team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/lowball-offer-response.txt
 ---
@@ -1132,7 +1150,7 @@ H2: Key Takeaways
 - Trial-ready preparation increases settlement authority.
 - Never accept the first offer without a full review.
 
-Quote: "Lowballing and Stonewalling" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Lowballing and Stonewalling" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -1163,6 +1181,7 @@ Answer: Each case is unique, but the standard evidence includes medical records,
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/major-car-accident.txt
 ---
@@ -1185,7 +1204,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The less you know about how the system works, the more power they have." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The less you know about how the system works, the more power they have." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -1222,6 +1241,7 @@ Answer: Value depends on liability strength, injury severity, treatment costs, w
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/motorcycle.txt
 ---
@@ -1244,7 +1264,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Lowball First Offer Won't Be the Last" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Lowball First Offer Won't Be the Last" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Gaps in treatment or delayed care are common reasons adjusters reduce value. Consistent records and clear physician notes help protect recovery. Book Insight: Treatment proportionality matters in valuation. Care that matches the injury severity helps avoid devaluation. 
 
 Book Insight: Liability and damages are the two pillars of claim value, and both require objective evidence.
@@ -1290,6 +1310,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/motorcycle-accident-case.txt
 ---
@@ -1312,7 +1333,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Lowball First Offer Won't Be the Last" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Lowball First Offer Won't Be the Last" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -1349,6 +1370,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/pedestrian-right-of-way.txt
 ---
@@ -1371,7 +1393,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Adjuster's Report to the Supervisor" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Adjuster's Report to the Supervisor" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -1380,7 +1402,7 @@ H2: Why Experience Matters
 Short answer: Right-of-way rules often determine liability in pedestrian cases.
 H3: Why Former Insurance Defense Attorneys Approach Cases Differently
 - We gather crosswalk and signal evidence early.
-- We counter claims that the pedestrian “darted out.”
+- We counter claims that the pedestrian â€œdarted out.â€
 - We evaluate policy limits for full recovery.
 + We prepare trial-ready files to strengthen settlement leverage.
 
@@ -1408,6 +1430,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/personal-injury.txt
 ---
@@ -1419,7 +1442,7 @@ Content Tier: Pillar
 
 ENHANCED BODY CONTENT:
 H1: Personal Injury Lawyer Los Angeles
-Intro: Insider Accident Lawyers is a Los Angeles personal injury firm that represents injured people throughout California with trial-focused representation. Our attorneys are former insurance defense lawyers, so we understand how insurance carrier negotiations and liability disputes are evaluated, and we use that insight to build stronger cases. We are known for referral work from major law firms, and our Spanish-speaking intake team makes it easier to get answers quickly. We handle complex injury and liability cases with the mindset of preparing for Los Angeles Superior Court even when a settlement is likely. Our team’s Los Angeles litigation experience shapes every step, from investigation to policy limits strategy, so clients can pursue full, fair recovery.
+Intro: Insider Accident Lawyers is a Los Angeles personal injury firm that represents injured people throughout California with trial-focused representation. Our attorneys are former insurance defense lawyers, so we understand how insurance carrier negotiations and liability disputes are evaluated, and we use that insight to build stronger cases. We are known for referral work from major law firms, and our Spanish-speaking intake team makes it easier to get answers quickly. We handle complex injury and liability cases with the mindset of preparing for Los Angeles Superior Court even when a settlement is likely. Our teamâ€™s Los Angeles litigation experience shapes every step, from investigation to policy limits strategy, so clients can pursue full, fair recovery.
 H2: Key Takeaways
 - Insider Accident Lawyers is a Los Angeles personal injury firm with insurance defense insight.
 - We handle complex injury and liability cases with trial-focused preparation.
@@ -1430,7 +1453,7 @@ H2: Key Takeaways
 + Firm leadership includes attorneys with decades of trial experience, and the team highlights 100 million+ recovered across 5,000+ cases.
 + We prepare claims with trial standards, using insurer-side insight, valuation training, and courtroom experience to drive fair outcomes.
 
-Quote: "The less you know about how the system works, the more power they have." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The less you know about how the system works, the more power they have." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -1517,7 +1540,6 @@ Short answer: Early legal advice protects evidence and your recovery.
 Contact Insider Accident Lawyers to discuss your case and next steps. Learn more about our services at /personal-injury, vehicle cases at /personal-injury/auto-accidents, brain injury claims at /personal-injury/brain-injuries, trucking cases at /personal-injury/truck-accidents, wrongful death support at /personal-injury/wrongful-death, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-animal-attacks.txt
 ---
@@ -1531,7 +1553,7 @@ ENHANCED BODY CONTENT:
 H1: Dog Bite Lawyer Los Angeles
 Intro: Insider Accident Lawyers is a Los Angeles personal injury firm that represents dog bite and animal attack victims across California. Our attorneys are former insurance defense lawyers who understand how insurers evaluate liability disputes, policy limits, and settlement value. We receive referral work from major law firms and offer a Spanish-speaking intake team to help families get answers quickly. We are trial-focused and prepare cases for Los Angeles Superior Court when necessary. This approach is especially important in complex injury and liability cases involving serious wounds or child victims.
 H2: Key Takeaways
-- California’s dog bite rules still require strong documentation.
+- Californiaâ€™s dog bite rules still require strong documentation.
 - Former insurance defense insight improves negotiation strategy.
 - Serious injuries often need long-term medical support.
 - Trial-focused preparation strengthens settlement leverage.
@@ -1539,7 +1561,7 @@ H2: Key Takeaways
 
 + Our team includes seasoned litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The less you know about how the system works, the more power they have." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The less you know about how the system works, the more power they have." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -1612,7 +1634,6 @@ Short answer: Early action preserves evidence and medical proof.
 Contact Insider Accident Lawyers to discuss your case. See /personal-injury for broader representation, /personal-injury/brain-injuries for head trauma, /personal-injury/wrongful-death for fatal incidents, /personal-injury/auto-accidents for vehicle-related attacks, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-auto-accidents.txt
 ---
@@ -1634,7 +1655,7 @@ H2: Key Takeaways
 
 + Our leadership includes seasoned trial attorneys and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Negotiation is Expected-So Don't Rush to Settle" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Negotiation is Expected-So Don't Rush to Settle" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -1709,7 +1730,6 @@ Short answer: Early legal help protects evidence and your claim value.
 Contact Insider Accident Lawyers to discuss your options. See /personal-injury for broader representation, /personal-injury/brain-injuries for head trauma, /personal-injury/truck-accidents for commercial crashes, /personal-injury/wrongful-death for fatal cases, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-bicycle-accidents.txt
 ---
@@ -1731,7 +1751,7 @@ H2: Key Takeaways
 
 + Our team brings decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The less you know about how the system works, the more power they have." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The less you know about how the system works, the more power they have." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -1804,7 +1824,6 @@ Short answer: Early legal help protects evidence and medical documentation.
 Contact Insider Accident Lawyers to discuss your options. For related cases, see /personal-injury, /personal-injury/auto-accidents, /personal-injury/brain-injuries, /personal-injury/truck-accidents, and meet our attorneys at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-brain-injuries.txt
 ---
@@ -1826,7 +1845,7 @@ H2: Key Takeaways
 
 + Our team includes senior litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Liability and Damages: The Two Pillars of Every Claim" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Liability and Damages: The Two Pillars of Every Claim" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Gaps in treatment or delayed care are common reasons adjusters reduce value. Consistent records and clear physician notes help protect recovery. Book Insight: Treatment proportionality matters in valuation. Care that matches the injury severity helps avoid devaluation. 
 
 Book Insight: Liability and damages are the two pillars of claim value, and both require objective evidence.
@@ -1835,7 +1854,7 @@ H2: Why Experience Matters
 Short answer: We build TBI cases with medical evidence and insurer-level strategy.
 H3: Why Former Insurance Defense Attorneys Approach Cases Differently
 - We focus on causation and future-care projections early.
-- We counter “mild TBI” minimization with expert proof.
+- We counter â€œmild TBIâ€ minimization with expert proof.
 - We evaluate policy limits and bad faith exposure.
 + We prepare trial-ready records that strengthen negotiation leverage.
 H3: Complex Injury and Liability Focus
@@ -1899,7 +1918,6 @@ Short answer: Early action protects evidence and medical timelines.
 Contact Insider Accident Lawyers to discuss your case. For related claims, see /personal-injury, /personal-injury/auto-accidents, /personal-injury/truck-accidents, /personal-injury/wrongful-death, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-catastrophic-injuries.txt
 ---
@@ -1921,7 +1939,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The less you know about how the system works, the more power they have." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The less you know about how the system works, the more power they have." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -1994,7 +2012,6 @@ Short answer: Early legal action protects evidence and long-term recovery.
 Contact Insider Accident Lawyers to discuss your case. For related matters, see /personal-injury, /personal-injury/brain-injuries, /personal-injury/truck-accidents, /personal-injury/wrongful-death, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-court.txt
 ---
@@ -2017,7 +2034,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The less you know about how the system works, the more power they have." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The less you know about how the system works, the more power they have." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -2054,6 +2071,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/personal-injury-motorcycle-accidents.txt
 ---
@@ -2075,7 +2093,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of courtroom experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Lowball First Offer Won't Be the Last" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Lowball First Offer Won't Be the Last" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -2098,7 +2116,7 @@ Related: /personal-injury/motorcycle-accidents
 
 Short answer: Most crashes involve driver inattention or failure to yield.
 H3: Left-Turn Collisions
-- Drivers turn across a rider’s path
+- Drivers turn across a riderâ€™s path
 H3: Lane Changes and Blind-Spot Errors
 - Failure to check mirrors or signals
 H3: Distracted or Impaired Driving
@@ -2148,7 +2166,6 @@ Short answer: Early legal help protects evidence and increases recovery.
 Contact Insider Accident Lawyers to discuss your case. For related matters, see /personal-injury, /personal-injury/auto-accidents, /personal-injury/brain-injuries, /personal-injury/truck-accidents, and meet our attorneys at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-pedestrian-accidents.txt
 ---
@@ -2170,7 +2187,7 @@ H2: Key Takeaways
 
 + Our team includes seasoned litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Adjuster's Report to the Supervisor" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Adjuster's Report to the Supervisor" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -2243,7 +2260,6 @@ Short answer: Early legal action protects evidence and your recovery.
 Contact Insider Accident Lawyers to discuss your case. For related matters, see /personal-injury, /personal-injury/auto-accidents, /personal-injury/brain-injuries, /personal-injury/wrongful-death, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-premises-liability.txt
 ---
@@ -2265,7 +2281,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Adjuster Is Not Your Friend" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Adjuster Is Not Your Friend" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Gaps in treatment or delayed care are common reasons adjusters reduce value. Consistent records and clear physician notes help protect recovery. Book Insight: Treatment proportionality matters in valuation. Care that matches the injury severity helps avoid devaluation. 
 
 Book Insight: Liability and damages are the two pillars of claim value, and both require objective evidence.
@@ -2338,7 +2354,6 @@ Short answer: Early legal help protects evidence and strengthens your claim.
 Contact Insider Accident Lawyers to discuss your case. For related matters, see /personal-injury, /personal-injury/slip-and-fall, /personal-injury/brain-injuries, /personal-injury/wrongful-death, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-product-liability.txt
 ---
@@ -2360,7 +2375,7 @@ H2: Key Takeaways
 
 + Our team includes seasoned litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Insurance Company Won't Take Your Word for It" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Insurance Company Won't Take Your Word for It" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -2433,7 +2448,6 @@ Short answer: Early action protects evidence and strengthens your claim.
 Contact Insider Accident Lawyers to discuss your options. For related matters, see /personal-injury, /personal-injury/brain-injuries, /personal-injury/catastrophic-injuries, /personal-injury/wrongful-death, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-slip-and-fall.txt
 ---
@@ -2455,7 +2469,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Why Gaps in Treatment Hurt Your Credibility" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Why Gaps in Treatment Hurt Your Credibility" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -2528,7 +2542,6 @@ Short answer: Early legal action protects evidence and claim value.
 Contact Insider Accident Lawyers to discuss your options. For related matters, see /personal-injury, /personal-injury/premises-liability, /personal-injury/brain-injuries, /personal-injury/wrongful-death, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-spine-injuries.txt
 ---
@@ -2550,7 +2563,7 @@ H2: Key Takeaways
 
 + Our team includes senior litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The less you know about how the system works, the more power they have." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The less you know about how the system works, the more power they have." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -2623,7 +2636,6 @@ Short answer: Early legal action protects evidence and medical timelines.
 Contact Insider Accident Lawyers to discuss your case. For related matters, see /personal-injury, /personal-injury/brain-injuries, /personal-injury/auto-accidents, /personal-injury/truck-accidents, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-truck-accidents.txt
 ---
@@ -2645,7 +2657,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Expect Delays for High-Value Claims" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Expect Delays for High-Value Claims" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -2718,7 +2730,6 @@ Short answer: Early action preserves evidence and increases recovery.
 Contact Insider Accident Lawyers to discuss your case. For related matters, see /personal-injury, /personal-injury/auto-accidents, /personal-injury/brain-injuries, /personal-injury/wrongful-death, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-uber-and-lyft-accidents.txt
 ---
@@ -2740,7 +2751,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Settlement Authority Is Granted in Small Increments" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Settlement Authority Is Granted in Small Increments" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Gaps in treatment or delayed care are common reasons adjusters reduce value. Consistent records and clear physician notes help protect recovery. Book Insight: Treatment proportionality matters in valuation. Care that matches the injury severity helps avoid devaluation. 
 
 Book Insight: Liability and damages are the two pillars of claim value, and both require objective evidence.
@@ -2813,7 +2824,6 @@ Short answer: Early legal help preserves app and insurer evidence.
 Contact Insider Accident Lawyers to discuss your case. For related matters, see /personal-injury, /personal-injury/auto-accidents, /personal-injury/truck-accidents, /personal-injury/brain-injuries, and meet our team at /attorneys.
 
 
-
 ---
 FILE: CONTENT_ENRICHED/personal-injury-wrongful-death.txt
 ---
@@ -2835,7 +2845,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Game Changes When a Lawsuit Is Filed" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Game Changes When a Lawsuit Is Filed" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -2904,9 +2914,8 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 Answer: California uses comparative fault, so recovery is reduced by your share of fault rather than barred entirely.
 
 H2: Speak With a Los Angeles Wrongful Death Attorney
-Short answer: Early legal action protects evidence and your family’s rights.
+Short answer: Early legal action protects evidence and your familyâ€™s rights.
 Contact Insider Accident Lawyers to discuss your options. For related matters, see /personal-injury, /personal-injury/auto-accidents, /personal-injury/truck-accidents, /personal-injury/brain-injuries, and meet our team at /attorneys.
-
 
 
 ---
@@ -2931,7 +2940,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The less you know about how the system works, the more power they have." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The less you know about how the system works, the more power they have." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -2968,6 +2977,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/premises-liability-attorney.txt
 ---
@@ -2990,7 +3000,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Adjuster Is Not Your Friend" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Adjuster Is Not Your Friend" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -3036,6 +3046,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: Premises cases often involve head or spine injuries. See /personal-injury/brain-injuries and /personal-injury/spine-injuries, and meet our team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/product-liability.txt
 ---
@@ -3058,7 +3069,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Insurance Company Won't Take Your Word for It" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Insurance Company Won't Take Your Word for It" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Gaps in treatment or delayed care are common reasons adjusters reduce value. Consistent records and clear physician notes help protect recovery. Book Insight: Treatment proportionality matters in valuation. Care that matches the injury severity helps avoid devaluation. 
 
 Book Insight: Liability and damages are the two pillars of claim value, and both require objective evidence.
@@ -3104,6 +3115,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/proving-claim-value.txt
 ---
@@ -3122,7 +3134,7 @@ H2: Key Takeaways
 - Expert opinions can support future care and income loss.
 - A clear narrative improves settlement results.
 
-Quote: "Medical Records: The Cornerstone of Your Damages Claim" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Medical Records: The Cornerstone of Your Damages Claim" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -3154,6 +3166,7 @@ Answer: Most California personal injury claims have a two-year deadline, but gov
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/rideshare-accident.txt
 ---
@@ -3176,7 +3189,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Settlement Authority Is Granted in Small Increments" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Settlement Authority Is Granted in Small Increments" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Insurers benefit from delay. A trial-ready file with complete documentation shortens the delay cycle and improves leverage. Book Insight: When a lawsuit is filed, the negotiation dynamic shifts. Trial readiness often increases settlement authority. 
 
 Book Insight: Insurers use internal reserves and incremented authority that reward patience and proof.
@@ -3222,6 +3235,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: Rideshare collisions overlap with auto and truck liability. See /personal-injury/auto-accidents and /personal-injury/truck-accidents, and meet our team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/spine-injuries-attorney.txt
 ---
@@ -3244,7 +3258,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The less you know about how the system works, the more power they have." — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The less you know about how the system works, the more power they have." â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Adjusters often start with a low reserve and raise authority in small steps. A strong liability narrative and clean medical timeline help move those internal approvals faster. Book Insight: Adjusters weigh credibility, prior claims, and social media activity. Clear, consistent documentation helps neutralize those objections. 
 
 Book Insight: Adjusters often reduce claim value when treatment is delayed or inconsistent, so documentation matters.
@@ -3290,6 +3304,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: For related topics, see /personal-injury and /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/uber-or-lyft-accident.txt
 ---
@@ -3312,7 +3327,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "Settlement Authority Is Granted in Small Increments" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "Settlement Authority Is Granted in Small Increments" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: The book warns against recorded statements and broad medical authorizations early on, because they can be used to downplay injuries or dispute causation. Book Insight: Demand letters work best when they tell a clear story and anchor a specific number with evidence. Vague demands invite low offers. 
 
 Book Insight: Early recorded statements and broad medical authorizations can be used to limit recovery.
@@ -3349,6 +3364,7 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 Closing: Rideshare collisions overlap with auto and truck liability. See /personal-injury/auto-accidents and /personal-injury/truck-accidents, and meet our team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/wrongful.txt
 ---
@@ -3371,7 +3387,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Game Changes When a Lawsuit Is Filed" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Game Changes When a Lawsuit Is Filed" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Liability and damages are the two pillars of valuation. Objective evidence on both sides is what changes settlement authority. Book Insight: Future medical needs and lost earning capacity must be supported by experts. Well-supported projections carry more weight in negotiation. 
 
 Book Insight: Low initial offers are a common tactic; strong documentation and trial readiness improve authority.
@@ -3417,6 +3433,7 @@ Answer: California uses comparative fault, so recovery is reduced by your share 
 
 Closing: Wrongful death matters often follow serious vehicle or premises cases. See /personal-injury/auto-accidents and /personal-injury/premises-liability, and meet our team at /attorneys.
 
+
 ---
 FILE: CONTENT_ENRICHED/wrongful-death-claim-in-california.txt
 ---
@@ -3439,7 +3456,7 @@ H2: Key Takeaways
 
 + Our team includes litigators with decades of trial experience and a record that highlights 100 million+ recovered across 5,000+ cases.
 
-Quote: "The Game Changes When a Lawsuit Is Filed" — Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
+Quote: "The Game Changes When a Lawsuit Is Filed" â€” Shawn S. Rokni, Insider Lawyer Personal Injury Playbook
 Book Insight: Gaps in treatment or delayed care are common reasons adjusters reduce value. Consistent records and clear physician notes help protect recovery. Book Insight: Treatment proportionality matters in valuation. Care that matches the injury severity helps avoid devaluation. 
 
 Book Insight: Liability and damages are the two pillars of claim value, and both require objective evidence.
@@ -3465,7 +3482,7 @@ H2: How We Help
 Short answer: Contact a lawyer as soon as possible after a fatal incident.
 - Early action preserves evidence and witness statements.
 - Lawyers can determine the correct deadline.
-- Timely filing protects the family’s rights.
+- Timely filing protects the familyâ€™s rights.
 + Early legal guidance also limits insurer delays.
 
 H2: FAQs
@@ -3484,3 +3501,5 @@ Answer: Most cases settle, but trial-ready preparation improves leverage and pro
 
 
 Closing: Wrongful death matters often follow serious vehicle or premises cases. See /personal-injury/auto-accidents and /personal-injury/premises-liability, and meet our team at /attorneys.
+
+
