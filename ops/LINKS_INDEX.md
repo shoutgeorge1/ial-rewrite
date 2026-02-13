@@ -27,6 +27,8 @@
 | /brain-injury | https://www.insideraccidentlawyers.com/brain-injury | TBD | Informational Article | Enriched | |
 | /uber-or-lyft-accident | https://www.insideraccidentlawyers.com/uber-or-lyft-accident | TBD | Informational Article | Enriched | |
 | /injuries-truck-accidents | https://www.insideraccidentlawyers.com/injuries-truck-accidents | TBD | Informational Article | Enriched | |
+| /truck-accident-legal-rights | https://www.insideraccidentlawyers.com/truck-accident-legal-rights | TBD | Informational Article | New | Book-based truck rights guide |
+| /proving-truck-accident-case | https://www.insideraccidentlawyers.com/proving-truck-accident-case | TBD | Informational Article | New | Book-based case proof guide |
 | /rideshare-accident | https://www.insideraccidentlawyers.com/rideshare-accident | TBD | Informational Article | Enriched | |
 | /post-dog-bite | https://www.insideraccidentlawyers.com/post-dog-bite | TBD | Informational Article | Enriched | |
 | /product-liability | https://www.insideraccidentlawyers.com/product-liability | TBD | Informational Article | Enriched | |
